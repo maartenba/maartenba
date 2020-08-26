@@ -15,7 +15,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 > Maarten Balliauw loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. He is Developer Advocate at JetBrains, and formerly founded [MyGet](https://www.myget.org). He's an ASP Insider and former Microsoft MVP. Maarten is a frequent speaker at various national and international events and organizes [Azure User Group](https://www.azug.be) events in Belgium. In his free time, he brews his own beer. Maarten's blog can be found at [https://blog.maartenballiauw.be](https://blog.maartenballiauw.be).
 
-#### 📙 Blog Posts
+#### 📙 Recent blog posts
 <!--START_SECTION:feed-->
 * [A sustainable NuGet marketplace will have to compete with the NuGet gallery](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;18&#x2F;a-sustainable-nuget-marketplace-will-have-to-compete-with-the-nuget-gallery.html) <small>2020-06-18T02:44:05.000Z</small>
 * [Run Azurite in Docker with Rider and keep Azure Storage data local to a solution](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;08&#x2F;run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution.html) <small>2020-06-08T02:44:05.000Z</small>
