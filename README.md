@@ -17,12 +17,14 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
-* [A sustainable NuGet marketplace will have to compete with the NuGet gallery](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;18&#x2F;a-sustainable-nuget-marketplace-will-have-to-compete-with-the-nuget-gallery.html) <small>2020-06-18T02:44:05.000Z</small>
-* [Run Azurite in Docker with Rider and keep Azure Storage data local to a solution](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;08&#x2F;run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution.html) <small>2020-06-08T02:44:05.000Z</small>
-* [Referencing a Specific Assembly from a NuGet Package](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;22&#x2F;referencing-specific-assembly-nuget-package.html) <small>2020-04-22T02:44:05.000Z</small>
-* [Building an ASP.NET Core Tag Helper to Show&#x2F;Hide UI Elements based on Authorization](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;14&#x2F;building-an-aspnet-core-tag-helper-to-show-hide-ui-elements-based-on-authorization.html) <small>2020-04-14T02:44:05.000Z</small>
-* [Streaming a Community Event on YouTube Using StreamYard](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;08&#x2F;streaming-a-community-event-on-youtube-using-streamyard.html) <small>2020-04-08T02:44:05.000Z</small>
-* [Streaming a Community Event on YouTube - Sharing the Technologies and Learnings from Virtual Azure Community Day](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;02&#x2F;streaming-a-community-event-on-youtube-sharing-the-technologies-and-learnings-from-virtual-azure-community-day.html) <small>2020-04-02T02:44:05.000Z</small>
+* [A sustainable NuGet marketplace will have to compete with the NuGet gallery](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;18&#x2F;a-sustainable-nuget-marketplace-will-have-to-compete-with-the-nuget-gallery.html)
+* [Run Azurite in Docker with Rider and keep Azure Storage data local to a solution](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;08&#x2F;run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution.html)
+* [Referencing a Specific Assembly from a NuGet Package](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;22&#x2F;referencing-specific-assembly-nuget-package.html)
+* [Building an ASP.NET Core Tag Helper to Show&#x2F;Hide UI Elements based on Authorization](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;14&#x2F;building-an-aspnet-core-tag-helper-to-show-hide-ui-elements-based-on-authorization.html)
+* [Streaming a Community Event on YouTube Using StreamYard](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;08&#x2F;streaming-a-community-event-on-youtube-using-streamyard.html)
+* [Streaming a Community Event on YouTube - Sharing the Technologies and Learnings from Virtual Azure Community Day](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;02&#x2F;streaming-a-community-event-on-youtube-sharing-the-technologies-and-learnings-from-virtual-azure-community-day.html)
+* [Can .NET Core Framework Assemblies be Mapped back to Individual NuGet Packages? A Detective Story](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;01&#x2F;can-net-core-framework-assemblies-be-mapped-back-to-individual-nuget-packages-a-detective-story.html)
+* [Monitoring Twitter with Azure LogicApps and JetBrains Space](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;03&#x2F;09&#x2F;monitoring-twitter-with-azure-logicapps-and-jetbrains-space.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
