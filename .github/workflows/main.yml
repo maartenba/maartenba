@@ -13,4 +13,5 @@ jobs:
         with:
           feed-url: https://blog.maartenballiauw.be/feed.xml
           readme-section: feed
-          template: "##### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          max: 6
+          template: "* **[{{ title }}]({{ link }})**\n"
