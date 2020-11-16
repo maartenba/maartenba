@@ -31,7 +31,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### ❓ Quick bits
 
-* **Name:** Maarten Balliauw
+* **Name:** Maarten Balliauw ([how to pronounce 🔉](https://github.com/maartenba/maartenba/raw/master/maarten-balliauw-name.mp3))
 * **Age:** `DateTime.UtcNow.Year - 1983`
 * **Gender:** male
 * **Occupation:**
