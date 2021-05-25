@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Running a .NET application as a service on Linux with Systemd](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;05&#x2F;25&#x2F;running-a-net-application-as-a-service-on-linux-with-systemd.html)
 * [Building a supply chain attack with .NET, NuGet, DNS, source generators, and more!](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;05&#x2F;05&#x2F;building-a-supply-chain-attack-with-dotnet-nuget-dns-source-generators-and-more.html)
 * [The process, thought and technology behind building a friendly .NET SDK for JetBrains Space](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;01&#x2F;13&#x2F;the-process-thought-and-technology-behind-building-a-friendly-net-sdk-for-jetbrains-space.html)
 * [Export Office 365 calendar events to JetBrains Space using the Microsoft Graph API, the JetBrains Space SDK, and automation](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;12&#x2F;01&#x2F;export-office365-calendar-events-to-space-using-graph-api-and-space-sdk.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [Referencing a Specific Assembly from a NuGet Package](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;22&#x2F;referencing-specific-assembly-nuget-package.html)
 * [Building an ASP.NET Core Tag Helper to Show&#x2F;Hide UI Elements based on Authorization](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;14&#x2F;building-an-aspnet-core-tag-helper-to-show-hide-ui-elements-based-on-authorization.html)
 * [Streaming a Community Event on YouTube Using StreamYard](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;08&#x2F;streaming-a-community-event-on-youtube-using-streamyard.html)
-* [Streaming a Community Event on YouTube - Sharing the Technologies and Learnings from Virtual Azure Community Day](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;02&#x2F;streaming-a-community-event-on-youtube-sharing-the-technologies-and-learnings-from-virtual-azure-community-day.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
