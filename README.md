@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [A journey towards SpeakerTravel - Building a service from scratch](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;11&#x2F;08&#x2F;journey-towards-speakertravel-building-a-service-from-scratch.html)
 * [Custom bindings with Azure Functions .NET Isolated Worker](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;06&#x2F;01&#x2F;custom-bindings-with-azure-functions-dotnet-isolated-worker.html)
 * [Running a .NET application as a service on Linux with Systemd](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;05&#x2F;25&#x2F;running-a-net-application-as-a-service-on-linux-with-systemd.html)
 * [Building a supply chain attack with .NET, NuGet, DNS, source generators, and more!](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;05&#x2F;05&#x2F;building-a-supply-chain-attack-with-dotnet-nuget-dns-source-generators-and-more.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [A sustainable NuGet marketplace will have to compete with the NuGet gallery](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;18&#x2F;a-sustainable-nuget-marketplace-will-have-to-compete-with-the-nuget-gallery.html)
 * [Run Azurite in Docker with Rider and keep Azure Storage data local to a solution](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;08&#x2F;run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution.html)
 * [Referencing a Specific Assembly from a NuGet Package](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;22&#x2F;referencing-specific-assembly-nuget-package.html)
-* [Building an ASP.NET Core Tag Helper to Show&#x2F;Hide UI Elements based on Authorization](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;04&#x2F;14&#x2F;building-an-aspnet-core-tag-helper-to-show-hide-ui-elements-based-on-authorization.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
