@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Internals of C# nullable reference types - Migrating to nullable reference types - Part 2](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;19&#x2F;internals-of-csharp-nullable-reference-types-migrating-to-nullable-reference-types-part-2.html)
 * [Nullable reference types in C# - Migrating to nullable reference types - Part 1](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;11&#x2F;nullable-reference-types-in-csharp-migrating-to-nullable-reference-types-part-1.html)
 * [A journey towards SpeakerTravel - Building a service from scratch](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;11&#x2F;08&#x2F;journey-towards-speakertravel-building-a-service-from-scratch.html)
 * [Custom bindings with Azure Functions .NET Isolated Worker](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;06&#x2F;01&#x2F;custom-bindings-with-azure-functions-dotnet-isolated-worker.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [Export Office 365 calendar events to JetBrains Space using the Microsoft Graph API, the JetBrains Space SDK, and automation](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;12&#x2F;01&#x2F;export-office365-calendar-events-to-space-using-graph-api-and-space-sdk.html)
 * [Producer&#x2F;consumer pipelines with System.Threading.Channels](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;08&#x2F;26&#x2F;producer-consumer-pipelines-with-system-threading-channels.html)
 * [A sustainable NuGet marketplace will have to compete with the NuGet gallery](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;18&#x2F;a-sustainable-nuget-marketplace-will-have-to-compete-with-the-nuget-gallery.html)
-* [Run Azurite in Docker with Rider and keep Azure Storage data local to a solution](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2020&#x2F;06&#x2F;08&#x2F;run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
