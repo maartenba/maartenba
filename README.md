@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;10&#x2F;03&#x2F;rate-limiting-web-applications-concepts-approaches.html)
 * [ASP.NET Core rate limiting middleware in .NET 7](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;09&#x2F;26&#x2F;aspnet-core-rate-limiting-middleware.html)
 * [How to test ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;06&#x2F;07&#x2F;how-test-aspnetcore-minimal-apis.html)
 * [Techniques and tools to update your C# project - Migrating to nullable reference types - Part 4](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;05&#x2F;03&#x2F;techniques-and-tools-to-update-your-csharp-project-migrating-to-nullable-reference-types-part-4.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [A journey towards SpeakerTravel - Building a service from scratch](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;11&#x2F;08&#x2F;journey-towards-speakertravel-building-a-service-from-scratch.html)
 * [Custom bindings with Azure Functions .NET Isolated Worker](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;06&#x2F;01&#x2F;custom-bindings-with-azure-functions-dotnet-isolated-worker.html)
 * [Running a .NET application as a service on Linux with Systemd](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;05&#x2F;25&#x2F;running-a-net-application-as-a-service-on-linux-with-systemd.html)
-* [Building a supply chain attack with .NET, NuGet, DNS, source generators, and more!](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;05&#x2F;05&#x2F;building-a-supply-chain-attack-with-dotnet-nuget-dns-source-generators-and-more.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
