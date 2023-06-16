@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;06&#x2F;15&#x2F;running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
 * [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;01&#x2F;12&#x2F;getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp.html)
 * [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;11&#x2F;05&#x2F;mastodon-own-donain-without-hosting-server.html)
 * [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;10&#x2F;03&#x2F;rate-limiting-web-applications-concepts-approaches.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [Annotating your C# code - Migrating to nullable reference types - Part 3](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;25&#x2F;annotating-your-csharp-code-migrating-to-nullable-reference-types-part-3.html)
 * [Internals of C# nullable reference types - Migrating to nullable reference types - Part 2](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;19&#x2F;internals-of-csharp-nullable-reference-types-migrating-to-nullable-reference-types-part-2.html)
 * [Nullable reference types in C# - Migrating to nullable reference types - Part 1](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;11&#x2F;nullable-reference-types-in-csharp-migrating-to-nullable-reference-types-part-1.html)
-* [A journey towards SpeakerTravel - Building a service from scratch](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2021&#x2F;11&#x2F;08&#x2F;journey-towards-speakertravel-building-a-service-from-scratch.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
