@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Provide opt-in to experimental APIs using C#12 ExperimentalAttribute](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;11&#x2F;08&#x2F;opt-in-to-experimental-apis-using-csharp-12-experimentalattribute.html)
 * [Discriminated Unions in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;09&#x2F;18&#x2F;discriminated-unions-in-csharp.html)
 * [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;06&#x2F;15&#x2F;running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
 * [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;01&#x2F;12&#x2F;getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [How to test ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;06&#x2F;07&#x2F;how-test-aspnetcore-minimal-apis.html)
 * [Techniques and tools to update your C# project - Migrating to nullable reference types - Part 4](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;05&#x2F;03&#x2F;techniques-and-tools-to-update-your-csharp-project-migrating-to-nullable-reference-types-part-4.html)
 * [Annotating your C# code - Migrating to nullable reference types - Part 3](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;25&#x2F;annotating-your-csharp-code-migrating-to-nullable-reference-types-part-3.html)
-* [Internals of C# nullable reference types - Migrating to nullable reference types - Part 2](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;04&#x2F;19&#x2F;internals-of-csharp-nullable-reference-types-migrating-to-nullable-reference-types-part-2.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
