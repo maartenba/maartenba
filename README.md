@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballiauw/) on Twitter).
+My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballiauw/) on X / [@maartenballiauw@mastodon.online](https://mastodon.online/@maartenballiauw) on Mastodon).
 
 > Maarten Balliauw loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. He is Developer Advocate at JetBrains, creator of [SpeakerTravel](https://www.speaker.travel/), and formerly founded [MyGet](https://www.myget.org/). He's an ASP Insider and former Microsoft MVP. Maarten is a frequent speaker at various national and international events and organizes [Azure User Group](https://www.azug.be) events in Belgium. In his free time, he brews his own beer. Maarten's blog can be found at [https://blog.maartenballiauw.be](https://blog.maartenballiauw.be).
 
