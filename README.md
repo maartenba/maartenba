@@ -17,6 +17,7 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Time for a change… Moving from JetBrains to Duende Software](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2024&#x2F;11&#x2F;21&#x2F;time-for-change-jetbrains-duende-software.html)
 * [Talk - Bringing C# nullability into existing code](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;talk&#x2F;2024&#x2F;01&#x2F;21&#x2F;bringing-csharp-nullability-into-existing-code.html)
 * [Test-Driving Windows 11 Dev Drive for .NET](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;11&#x2F;22&#x2F;test-driving-windows-11-dev-drive-for-dotnet.html)
 * [Provide opt-in to experimental APIs using C#12 ExperimentalAttribute](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;11&#x2F;08&#x2F;opt-in-to-experimental-apis-using-csharp-12-experimentalattribute.html)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw ([@maartenballiauw](https://twitter.com/maartenballi
 * [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;11&#x2F;05&#x2F;mastodon-own-donain-without-hosting-server.html)
 * [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;10&#x2F;03&#x2F;rate-limiting-web-applications-concepts-approaches.html)
 * [ASP.NET Core rate limiting middleware in .NET 7](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;09&#x2F;26&#x2F;aspnet-core-rate-limiting-middleware.html)
-* [How to test ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;06&#x2F;07&#x2F;how-test-aspnetcore-minimal-apis.html)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
