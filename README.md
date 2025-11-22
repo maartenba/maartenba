@@ -17,16 +17,16 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
-* [Time for a change… Moving from JetBrains to Duende Software](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2024&#x2F;11&#x2F;21&#x2F;time-for-change-jetbrains-duende-software.html)
-* [Talk - Bringing C# nullability into existing code](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;talk&#x2F;2024&#x2F;01&#x2F;21&#x2F;bringing-csharp-nullability-into-existing-code.html)
-* [Test-Driving Windows 11 Dev Drive for .NET](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;11&#x2F;22&#x2F;test-driving-windows-11-dev-drive-for-dotnet.html)
-* [Provide opt-in to experimental APIs using C#12 ExperimentalAttribute](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;11&#x2F;08&#x2F;opt-in-to-experimental-apis-using-csharp-12-experimentalattribute.html)
-* [Discriminated Unions in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;09&#x2F;18&#x2F;discriminated-unions-in-csharp.html)
-* [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;06&#x2F;15&#x2F;running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
-* [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2023&#x2F;01&#x2F;12&#x2F;getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp.html)
-* [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;11&#x2F;05&#x2F;mastodon-own-donain-without-hosting-server.html)
-* [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;10&#x2F;03&#x2F;rate-limiting-web-applications-concepts-approaches.html)
-* [ASP.NET Core rate limiting middleware in .NET 7](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;post&#x2F;2022&#x2F;09&#x2F;26&#x2F;aspnet-core-rate-limiting-middleware.html)
+* [Time for a change... Moving from JetBrains to Duende Software](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2024-11-21-time-for-change-jetbrains-duende-software&#x2F;)
+* [Talk - Bringing C# nullability into existing code](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;talks&#x2F;2024-01-21-bringing-csharp-nullability-into-existing-code&#x2F;)
+* [Test-Driving Windows 11 Dev Drive for .NET](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-22-test-driving-windows-11-dev-drive-for-dotnet&#x2F;)
+* [Provide opt-in to experimental APIs using C#12 ExperimentalAttribute](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-08-opt-in-to-experimental-apis-using-csharp-12-experimentalattribute&#x2F;)
+* [Discriminated Unions in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-09-18-discriminated-unions-in-csharp&#x2F;)
+* [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-06-15-running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp&#x2F;)
+* [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp&#x2F;)
+* [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-donain-without-hosting-server&#x2F;)
+* [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-10-03-rate-limiting-web-applications-concepts-approaches&#x2F;)
+* [ASP.NET Core rate limiting middleware in .NET 7](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-09-26-aspnet-core-rate-limiting-middleware&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
