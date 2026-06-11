@@ -24,7 +24,7 @@ My name is Maarten Balliauw.
 * [Discriminated Unions in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-09-18-discriminated-unions-in-csharp&#x2F;)
 * [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-06-15-running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp&#x2F;)
 * [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp&#x2F;)
-* [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-donain-without-hosting-server&#x2F;)
+* [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-domain-without-hosting-server&#x2F;)
 * [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-10-03-rate-limiting-web-applications-concepts-approaches&#x2F;)
 * [ASP.NET Core rate limiting middleware in .NET 7](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-09-26-aspnet-core-rate-limiting-middleware&#x2F;)
 <!--END_SECTION:feed-->
