@@ -17,6 +17,7 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [What is IdentityServer and When Do You Need it?](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-11-what-is-identityserver-and-when-do-you-need-it&#x2F;)
 * [Time for a change... Moving from JetBrains to Duende Software](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2024-11-21-time-for-change-jetbrains-duende-software&#x2F;)
 * [Talk - Bringing C# nullability into existing code](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;talks&#x2F;2024-01-21-bringing-csharp-nullability-into-existing-code&#x2F;)
 * [Test-Driving Windows 11 Dev Drive for .NET](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-22-test-driving-windows-11-dev-drive-for-dotnet&#x2F;)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw.
 * [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp&#x2F;)
 * [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-domain-without-hosting-server&#x2F;)
 * [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-10-03-rate-limiting-web-applications-concepts-approaches&#x2F;)
-* [ASP.NET Core rate limiting middleware in .NET 7](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-09-26-aspnet-core-rate-limiting-middleware&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
