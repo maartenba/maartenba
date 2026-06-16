@@ -17,6 +17,7 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Discriminated unions in C# and .NET 11 (for real this time)](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-16-discriminated-unions-in-csharp-for-real-this-time&#x2F;)
 * [What is IdentityServer and When Do You Need it?](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-11-what-is-identityserver-and-when-do-you-need-it&#x2F;)
 * [Time for a change... Moving from JetBrains to Duende Software](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2024-11-21-time-for-change-jetbrains-duende-software&#x2F;)
 * [Talk - Bringing C# nullability into existing code](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;talks&#x2F;2024-01-21-bringing-csharp-nullability-into-existing-code&#x2F;)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw.
 * [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-06-15-running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp&#x2F;)
 * [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp&#x2F;)
 * [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-domain-without-hosting-server&#x2F;)
-* [Rate limiting in web applications - Concepts and approaches](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-10-03-rate-limiting-web-applications-concepts-approaches&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
