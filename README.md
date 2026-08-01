@@ -17,6 +17,7 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [So, I wrote a fiction book. Meet &quot;The Side Project&quot;.](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project&#x2F;)
 * [TimeProvider and the End of Untestable DateTime.Now](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-07-22-timeprovider-and-the-end-of-untestable-datetime-now&#x2F;)
 * [Discriminated unions in C# and .NET 11 (for real this time)](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-16-discriminated-unions-in-csharp-for-real-this-time&#x2F;)
 * [What is IdentityServer and When Do You Need it?](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-11-what-is-identityserver-and-when-do-you-need-it&#x2F;)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw.
 * [Provide opt-in to experimental APIs using C#12 ExperimentalAttribute](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-08-opt-in-to-experimental-apis-using-csharp-12-experimentalattribute&#x2F;)
 * [Discriminated Unions in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-09-18-discriminated-unions-in-csharp&#x2F;)
 * [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-06-15-running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp&#x2F;)
-* [Getting rid of warnings with nullable reference types and JSON object models in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
