@@ -17,6 +17,7 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Keyed Services (Named registrations) in .NET Service Provider](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider&#x2F;)
 * [So, I wrote a fiction book. Meet &quot;The Side Project&quot;.](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-07-31-so-i-wrote-a-fiction-book-meet-the-side-project&#x2F;)
 * [TimeProvider and the End of Untestable DateTime.Now](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-07-22-timeprovider-and-the-end-of-untestable-datetime-now&#x2F;)
 * [Discriminated unions in C# and .NET 11 (for real this time)](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-16-discriminated-unions-in-csharp-for-real-this-time&#x2F;)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw.
 * [Test-Driving Windows 11 Dev Drive for .NET](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-22-test-driving-windows-11-dev-drive-for-dotnet&#x2F;)
 * [Provide opt-in to experimental APIs using C#12 ExperimentalAttribute](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-08-opt-in-to-experimental-apis-using-csharp-12-experimentalattribute&#x2F;)
 * [Discriminated Unions in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-09-18-discriminated-unions-in-csharp&#x2F;)
-* [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-06-15-running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
