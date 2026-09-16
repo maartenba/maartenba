@@ -17,6 +17,7 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Device Bound Session Credentials in ASP.NET Core](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-09-16-device-bound-session-credentials-in-aspnet-core&#x2F;)
 * [Building a Supply Chain Attack with .NET and NuGet](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget&#x2F;)
 * [Hosting the .NET Aspire Dashboard as a Standalone Container in Azure Web Apps](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps&#x2F;)
 * [Keyed Services (Named registrations) in .NET Service Provider](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-08-11-keyed-services-named-registrations-in-dotnet-service-provider&#x2F;)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw.
 * [What is IdentityServer and When Do You Need it?](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-11-what-is-identityserver-and-when-do-you-need-it&#x2F;)
 * [Time for a change... Moving from JetBrains to Duende Software](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2024-11-21-time-for-change-jetbrains-duende-software&#x2F;)
 * [Talk - Bringing C# nullability into existing code](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;talks&#x2F;2024-01-21-bringing-csharp-nullability-into-existing-code&#x2F;)
-* [Test-Driving Windows 11 Dev Drive for .NET](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-11-22-test-driving-windows-11-dev-drive-for-dotnet&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
