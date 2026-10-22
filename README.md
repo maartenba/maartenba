@@ -17,6 +17,7 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [Server-Timing Headers in ASP.NET Core: Backend Metrics in Browser DevTools](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-10-22-server-timing-headers-in-aspnet-core&#x2F;)
 * [Device Bound Session Credentials in ASP.NET Core](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-09-16-device-bound-session-credentials-in-aspnet-core&#x2F;)
 * [System.Text.Json Polymorphic Deserialization](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson&#x2F;)
 * [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-domain-without-hosting-server&#x2F;)
@@ -26,7 +27,6 @@ My name is Maarten Balliauw.
 * [Rate limiting in ASP.NET Core: a practical guide (updated for .NET 10)](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-09-26-aspnet-core-rate-limiting-middleware&#x2F;)
 * [Using ASP.NET Core Passkeys for Second Factor Authentication](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication&#x2F;)
 * [Building a Supply Chain Attack with .NET and NuGet](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget&#x2F;)
-* [Hosting the .NET Aspire Dashboard as a Standalone Container in Azure Web Apps](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-08-19-hosting-aspire-dashboard-standalone-in-azure-web-apps&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
