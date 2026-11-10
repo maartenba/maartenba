@@ -17,16 +17,16 @@ My name is Maarten Balliauw.
 
 #### 📙 Recent blog posts
 <!--START_SECTION:feed-->
+* [UTCP vs MCP: what happens to agent auth without a server in the middle?](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-11-10-utcp-auth-dcr-cimd-musings&#x2F;)
+* [PartitionKey and RowKey in Azure Table Storage explained](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2012-10-08-what-partitionkey-and-rowkey-are-for-in-windows-azure-table-storage&#x2F;)
+* [ValidateAntiForgeryToken in ASP.NET Core: unit test for it](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2019-01-11-unit-testing-for-validateantiforgerytoken-and-clever-navigation-in-the-resharper-rider-test-runner&#x2F;)
+* [Call for Papers meaning: what happens after you submit](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2019-08-27-what-happens-after-submitting-call-for-papers&#x2F;)
+* [Run Azurite storage emulator in Docker with Rider](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2020-06-09-run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution&#x2F;)
 * [Server-Timing Headers in ASP.NET Core: Backend Metrics in Browser DevTools](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-10-22-server-timing-headers-in-aspnet-core&#x2F;)
 * [Device Bound Session Credentials in ASP.NET Core](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-09-16-device-bound-session-credentials-in-aspnet-core&#x2F;)
 * [System.Text.Json Polymorphic Deserialization](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2020-01-29-deserializing-json-into-polymorphic-classes-with-systemtextjson&#x2F;)
 * [Mastodon on your own domain without hosting a server](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-11-05-mastodon-own-domain-without-hosting-server&#x2F;)
 * [Fix CS8618 Nullable Warnings in C# JSON Models](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2023-01-12-getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp&#x2F;)
-* [What is IdentityServer and When Do You Need it?](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-06-11-what-is-identityserver-and-when-do-you-need-it&#x2F;)
-* [Run a .NET App as a Linux Service with systemd](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2021-05-25-running-a-net-application-as-a-service-on-linux-with-systemd&#x2F;)
-* [Rate limiting in ASP.NET Core: a practical guide (updated for .NET 10)](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2022-09-26-aspnet-core-rate-limiting-middleware&#x2F;)
-* [Using ASP.NET Core Passkeys for Second Factor Authentication](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-10-01-using-aspnet-core-passkeys-for-second-factor-authentication&#x2F;)
-* [Building a Supply Chain Attack with .NET and NuGet](https:&#x2F;&#x2F;blog.maartenballiauw.be&#x2F;posts&#x2F;2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget&#x2F;)
 <!--END_SECTION:feed-->
 
 #### ❓ Quick bits
